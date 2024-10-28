@@ -1,0 +1,95 @@
+{
+    "name": "Alim Semi INCEMAN",
+    "title": "Backend Developer",
+    "location": "Izmir",
+    "locationUrl": "",
+    "about": "I am an enthusiastic Software Engineer with approximately 1.5 years of professional experience in software development. During this time, I have had the opportunity to work with various technologies such as JAVA, HTML, JS, CSS, JSP, React, SAP Commerce Cloud, Spring Boot, Apache Solr, FlexibleSearch, MSSQL, MYSQL, PostgreSQL and Jenkins. My areas of expertise include web development, e-commerce platforms, and modern web technologies. I have participated in projects involving payment method integrations (such as PayPal, Braintree, Payfour) and other various integrations like Govit, Moblva and Packupp. By experiencing different project management methodologies like KANBAN and SCRUM, I have actively contributed to the team. I am committed to continuous self-improvement and effective collaboration within the team in every project.",
+    "workExperience": [
+        {
+            "company": "CarrefourSA via Enoca Bilgi Teknolojileri ve Danışmanlık Ltd. Şti.",
+            "location": "Remote",
+            "duration": "2023 - Present",
+            "position": "Backend Developer",
+            "description": "Yazilacak."
+        },
+        {
+            "company": "Artek Kesim Teknolojileri Ltd. Şti.",
+            "location": "Hybrid",
+            "duration": "2021 - 2023",
+            "position": "Maintenance Manager",
+            "description": "Yazilacak."
+        }
+    ],
+    "education": [
+        {
+            "institution": "Afyon Kocatepe University",
+            "duration": "2016-2020",
+            "degree": "Mechatronics Engineering"
+        }
+    ],
+    "skills": [
+        "Java",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "SAP Commerce Cloud",
+        "Spring",
+        "Spring Boot",
+        "React",
+        "Apache Solr",
+        "Flexible Search",
+        "MSSQL",
+        "MYSQL",
+        "PostgreSQL",
+        "Jenkins",
+        "Rest API",
+        "Soap API"
+    ],
+    "projects": [
+        {
+            "name": "Semi Wood-BE",
+            "description": "I developed a Java-based back-end system to facilitate the management of wooden products and the order processes.",
+            "projectsUrl": "https://github.com/IncemanAlimSemi/semiwoodbe"
+        },
+        {
+            "name": "Social Media-BE",
+            "description": "I created a back-end system for a simple social media platform that supports user authentication, post management, and real-time interactions.",
+            "projectsUrl": "https://github.com/IncemanAlimSemi/socialmediabe"
+        },
+        {
+            "name": "Fibabank Microservice",
+            "description": "I developed a simple microservice application for inventory management and shopping for Fibabanka.",
+            "projectsUrl": "https://github.com/IncemanAlimSemi/Fibabank-Bootcamp-Project"
+        },
+        {
+            "name": "CRM",
+            "description": "I developed a simple CRM application to streamline customer management, track interactions, and improve communication between teams.",
+            "projectsUrl": "https://github.com/IncemanAlimSemi/CrmProjectV1.1"
+        },
+        {
+            "name": "Chess Game",
+            "description": "I created a simple chess game where users can play against each other.",
+            "projectsUrl": "https://github.com/IncemanAlimSemi/ChessProject"
+        },
+        {
+            "name": "Minesweeper Game",
+            "description": "I created a minesweeper game.",
+            "projectsUrl": "https://github.com/IncemanAlimSemi/minesweeper"
+        },
+        {
+            "name": "Android Expense Tracking App",
+            "description": "I developed an application that allows users to track their expenses.",
+            "projectsUrl": "https://github.com/IncemanAlimSemi/AndroidBootcampTurkeyHarcamaTakipUygulamasi"
+        }
+    ],
+    "socialMedia": {
+        "email": "mailto:alimsemiinceman@hotmail.com",
+        "phone": "",
+        "github": "https://github.com/IncemanAlimSemi",
+        "linkedin": "https://linkedin.com/in/alimsemiinceman",
+        "twitter": "",
+        "youtube": "",
+        "playStore": "",
+        "instagram": ""
+    }
+}
