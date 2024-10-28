@@ -1,23 +1,23 @@
 {
-    "name": "Alim Semi INCEMAN",
+    "name": "Alim Semi İNCEMAN",
     "title": "Backend Developer",
-    "location": "Izmir",
+    "location": "İzmir",
     "locationUrl": "",
-    "about": "I am an enthusiastic Software Engineer with approximately 1.5 years of professional experience in software development. During this time, I have had the opportunity to work with various technologies such as JAVA, HTML, JS, CSS, JSP, React, SAP Commerce Cloud, Spring Boot, Apache Solr, FlexibleSearch, MSSQL, MYSQL, PostgreSQL and Jenkins. My areas of expertise include web development, e-commerce platforms, and modern web technologies. I have participated in projects involving payment method integrations (such as PayPal, Braintree, Payfour) and other various integrations like Govit, Moblva and Packupp. By experiencing different project management methodologies like KANBAN and SCRUM, I have actively contributed to the team. I am committed to continuous self-improvement and effective collaboration within the team in every project.",
+    "about": "I am an enthusiastic Software Developer with approximately 1.5 years of professional experience in software development. During this time, I have had the opportunity to work with various technologies such as JAVA, HTML, JS, CSS, JSP, React, SAP Commerce Cloud, Spring Boot, Apache Solr, FlexibleSearch, MSSQL, MYSQL, PostgreSQL and Jenkins. My areas of expertise include web development, e-commerce platforms, and modern web technologies. I have participated in projects involving payment method integrations (such as PayPal, Braintree, Payfour) and other various integrations like Gowit, Mobiliva and Packupp. By experiencing different project management methodologies like KANBAN and SCRUM, I have actively contributed to the team. I am committed to continuous self-improvement and effective collaboration within the team in every project.",
     "workExperience": [
         {
-            "company": "CarrefourSA via Enoca Bilgi Teknolojileri ve Danışmanlık Ltd. Şti.",
+            "company": "CarrefourSA via Enoca",
             "location": "Remote",
             "duration": "2023 - Present",
             "position": "Backend Developer",
-            "description": "Yazilacak."
+            "description": "I provided consultancy on solving technical issues for hybrid-based websites and executed backend development using technologies like Java, Hybris, and Spring. I worked on improving efficiency through Solr indexing, third-party application integration, and payment optimization. Additionally, I contributed to SAP Commerce Cloud development and managed DevOps processes to ensure successful project execution."
         },
         {
             "company": "Artek Kesim Teknolojileri Ltd. Şti.",
             "location": "Hybrid",
             "duration": "2021 - 2023",
             "position": "Maintenance Manager",
-            "description": "Yazilacak."
+            "description": " I programmed PLC-based systems and carried out the replacement and maintenance of parts in machines. I detected and repaired faults in machines to ensure uninterrupted production. Additionally, I played a key role in planning and executing periodic inspections and maintenance activities."
         }
     ],
     "education": [
