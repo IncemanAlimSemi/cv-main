@@ -103,7 +103,7 @@ export default function Home() {
               </div>
             </div>
             <span className="relative flex shrink-0 overflow-hidden rounded-xl size-28">
-              <Image src="https://avatars.githubusercontent.com/u/83879656?v=4&size=64" alt="avatar" width={112} height={112} className="aspect-square h-full w-full" />
+              <Image src="https://avatars.githubusercontent.com/u/83879656?v=4" alt="avatar" width={112} height={112} className="aspect-square h-full w-full" />
             </span>
           </div>
         )}
