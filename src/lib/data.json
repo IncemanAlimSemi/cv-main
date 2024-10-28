@@ -10,7 +10,7 @@
             "location": "Remote",
             "duration": "2023 - Present",
             "position": "Backend Developer",
-            "description": "I provided consultancy on solving technical issues for hybrid-based websites and executed backend development using technologies like Java, Hybris, and Spring. I worked on improving efficiency through Solr indexing, third-party application integration, and payment optimization. Additionally, I contributed to SAP Commerce Cloud development and managed DevOps processes to ensure successful project execution."
+            "description": "I provided consultancy on solving technical issues for hybrid-based websites and executed backend development using technologies like Java, Hybris, and Spring. I worked on improving efficiency through Solr indexing, third-party application integration and payment optimization. Additionally, I contributed to SAP Commerce Cloud development and managed DevOps processes to ensure successful project execution."
         },
         {
             "company": "Artek Kesim Teknolojileri Ltd. Şti.",
@@ -53,7 +53,7 @@
         },
         {
             "name": "Social Media-BE",
-            "description": "I created a back-end system for a simple social media platform that supports user authentication, post management, and real-time interactions.",
+            "description": "I created a back-end system for a simple social media platform that supports user authentication, post management and real-time interactions.",
             "projectsUrl": "https://github.com/IncemanAlimSemi/socialmediabe"
         },
         {
@@ -63,7 +63,7 @@
         },
         {
             "name": "CRM",
-            "description": "I developed a simple CRM application to streamline customer management, track interactions, and improve communication between teams.",
+            "description": "I developed a simple CRM application to streamline customer management, track interactions and improve communication between teams.",
             "projectsUrl": "https://github.com/IncemanAlimSemi/CrmProjectV1.1"
         },
         {
